@@ -1,10 +1,24 @@
 <h1>GIT инструкция</h1>
-1. Создать локальную директорию, открыть в ней консоль, набрать <code>git init</code>
-2. <code>git clone <i>адрес<i></code>
-3. <code>git branch <i>Фамилия<i></code>
-4. <code>git checkout <i>Фамилия<i></code>
-5. Делаем работу в своей ветке, создаем коммит и заливаем в ветку
-6. <code>git add</code> <code>git commit -m "описание коммита"</code> <code>git push origin <i>Фамилия<i></code>
+<ol>
+<li>
+Создать локальную директорию, открыть в ней консоль, набрать <code>git init</code>
+</li>
+<li>
+<code>git clone <i>адрес<i></code>
+</li>
+<li>
+<code>git branch <i>Фамилия<i></code>
+</li>
+<li>
+<code>git checkout <i>Фамилия<i></code>
+</li>
+<li>
+Делаем работу в своей ветке, создаем коммит и заливаем в ветку
+</li>
+<li>
+<code>git add</code> <code>git commit -m "описание коммита"</code> <code>git push origin <i>Фамилия<i></code>
+</li>
+</ol>
 
 Задания:
 <ul>
