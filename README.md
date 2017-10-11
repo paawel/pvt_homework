@@ -4,10 +4,10 @@
 Создать локальную директорию, открыть в ней консоль, набрать <code>git init</code>
 </li>
 <li>
-<code>git clone <i>адрес<i></code>
+<code>git clone <i>адрес<i>, зайти в скаченную директорию</code>
 </li>
 <li>
-<code>git branch <i>Фамилия<i></code>
+<code>в скаченной директории git branch <i>Фамилия<i></code>
 </li>
 <li>
 <code>git checkout <i>Фамилия<i></code>
