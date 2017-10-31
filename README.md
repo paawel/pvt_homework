@@ -23,4 +23,5 @@
 Задания:
 <ul>
 <li><a href="hw-1/hw-1.md">homework 1</a></li>
+<li><a href="hw-2/hw-2.md">homework 2</a></li>
 </ul>
