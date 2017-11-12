@@ -25,4 +25,5 @@
 <li><a href="hw-1/hw-1.md">homework 1</a></li>
 <li><a href="hw-2/hw-2.md">homework 2</a></li>
 <li><a href="hw-3/hw-3.md">homework 3</a></li>
+<li><a href="hw-4/hw-4.md">homework 4</a></li>
 </ul>
