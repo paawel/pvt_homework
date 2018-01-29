@@ -1,5 +1,5 @@
 <h1>Домашнее задание №1</h1>
-<h2>Git, структура HTML документа</h2>
+<h2>Git, HTML document, links</h2>
 
 <ul>
 <li>
