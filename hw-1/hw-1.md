@@ -1,6 +1,7 @@
-<h1>Домашнее задание №1</h1>
+<h1>Home work 1</h1>
 <h2>Git, HTML document, links</h2>
 
+<h3>1 point task</h3>
 <ul>
 <li>
 Создать аккаунт на GitHub
