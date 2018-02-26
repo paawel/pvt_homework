@@ -10,16 +10,16 @@
 <code>git clone <i>адрес<i>, зайти в скаченную директорию</code>
 </li>
 <li>
-<code>в скаченной директории git branch <i>Фамилия<i></code>
+<code>В скаченной директории git branch <i>Фамилия<i> (создается локальный бранч)</code>
 </li>
 <li>
-<code>git checkout <i>Фамилия<i></code>
+<code>git checkout <i>Фамилия<i> (переключается на созданный бранч)</code>
 </li>
 <li>
 Делаем работу в своей ветке, создаем коммит и заливаем в ветку
 </li>
 <li>
-<code>git add</code> <code>git commit -m "описание коммита"</code> <code>git push origin <i>Фамилия<i></code>
+<code>git add</code><br/> <code>git commit -m "описание коммита"</code><br/> <code>git push origin <i>Фамилия<i></code>
 </li>
 </ol>
 
