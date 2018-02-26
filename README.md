@@ -19,7 +19,7 @@
 Делаем работу в своей ветке, создаем коммит и заливаем в ветку
 </li>
 <li>
-<code>git add</code><br/> <code>git commit -m "описание коммита"</code><br/> <code>git push origin <i>Фамилия<i></code>
+<code>git add <i>Файлы с изменениями<i></code><br/> <code>git commit -m "описание коммита"</code><br/> <code>git push origin <i>Фамилия<i></code>
 </li>
 </ol>
 
