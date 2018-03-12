@@ -31,4 +31,5 @@ Tasks:
 <li><a href="hw-4/hw-4.md">homework 4</a></li>
 <li><a href="hw-5/hw-5.md">homework 5</a></li>
 <li><a href="hw-6/hw-6.md">homework 6</a></li>
+<li><a href="team-project/tp.md">team project</a></li>
 </ul>
