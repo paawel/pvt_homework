@@ -17,7 +17,9 @@ Github, Хостинг
 Срок - 2 недели, защита на лекции, дед-лайнов нет.
 </li>
 <li>
-<a href="teamProject.psd" target="_blank">Проект</a>
+<a href="teamProject.psd" target="_blank">Проект PSD</a>
+<br />
+<a href="sample.png" target="_blank">Проект IMG</a>
 </li>
 <li>
 Основные приоритеты: нейминг, структура, компонентность блоков, не так важна верстка, как то, что каждый компонент может делать.
