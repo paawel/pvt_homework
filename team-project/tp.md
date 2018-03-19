@@ -17,6 +17,9 @@ Github, Хостинг
 Срок - 2 недели, защита на лекции, дед-лайнов нет.
 </li>
 <li>
+Обязательно: верстка адаптивная или резиновая.
+</li>
+<li>
 <a href="teamProject.psd" target="_blank">Проект PSD</a>
 <br />
 <a href="sample.png" target="_blank">Проект IMG</a>
