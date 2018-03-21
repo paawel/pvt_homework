@@ -20,6 +20,9 @@ Github, Хостинг
 Обязательно: верстка адаптивная или резиновая.
 </li>
 <li>
+Обязательно: использование препроцессора.
+</li>
+<li>
 <a href="teamProject.psd" target="_blank">Проект PSD</a>
 <br />
 <a href="sample.png" target="_blank">Проект IMG</a>
