@@ -21,6 +21,9 @@
 <li>
 <code>git add <i>Файлы с изменениями<i></code><br/> <code>git commit -m "описание коммита"</code><br/> <code>git push origin <i>Фамилия<i></code>
 </li>
+<li>
+Video version of the instruction <a href="https://www.dropbox.com/sh/d46jh9nivpg7m5q/AABAboHXrcs1YUiILx-GwpBha?dl=0">here</a>
+</li>
 </ol>
 
 Tasks:
